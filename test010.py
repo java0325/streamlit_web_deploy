@@ -1,4 +1,9 @@
 !pip install scikit-learn 
+!pip install pandas
+!pip install numpy
+!pip install streamlit
+!pip install matplotlib
+
 import numpy as np
 import pandas as pd 
 from sklearn.datasets import load_iris 
